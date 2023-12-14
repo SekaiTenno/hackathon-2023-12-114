@@ -1,0 +1,5 @@
+beautifulsoup
+lxml
+requests
+schedule
+time
